@@ -1,10 +1,10 @@
 <h1 align="left">Hi, I'm Ramez 👋</h1>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" height="286">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width = "40%">
 
 <h3 align="left">A passionate and proactive AI student</h3>
 <h5 align="left">Thank you for visiting my profile! Feel free to check out my repositories and get in touch. </h5>
 
-<img align="" src="https://github-readme-stats.vercel.app/api?username=ramezze&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" />
+<img width = "45%" src="https://github-readme-stats.vercel.app/api?username=ramezze&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" />
 
   
 <div align="left">
