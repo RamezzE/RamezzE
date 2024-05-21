@@ -1,12 +1,12 @@
 <h1 align="left">Hi, I'm Ramez 👋</h1>
+
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width = "40%">
 
 <h3 align="left">A passionate and proactive AI student</h3>
 <h5 align="left">Thank you for visiting my profile! Feel free to check out my repositories and get in touch. </h5>
 
-<img width = "45%" src="https://github-readme-stats.vercel.app/api?username=ramezze&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" />
+<img src="https://github-readme-stats.vercel.app/api?username=ramezze&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" />
 
-  
 <div align="left">
 
 ## 🔧 Skills
@@ -18,14 +18,13 @@
   <img src="https://github.com/RamezzE/RamezzE/assets/117018553/37cd5346-a0ba-4bff-bce5-aa31d6640089" height = 35 width = 35 alt = "Java"/>
   <img src="https://github.com/RamezzE/RamezzE/assets/117018553/701faebf-afc6-4866-9910-278ac8d59db8" height = 35 width = 55 alt = "PHP"/>
 
-
-
 - **Frameworks/Libraries:**
 
   <img src="https://github.com/RamezzE/RamezzE/assets/117018553/30b0e970-56e5-4cbc-921e-a2ef2a066775" height = 35 width = 35 alt = "OpenCV"/>
   <img src="https://github.com/RamezzE/RamezzE/assets/117018553/1f3d50f5-68d3-4f88-891f-e23f988d11a2" height = 35 width = 35 alt = "TensorFlow"/>
   <img src="https://github.com/RamezzE/RamezzE/assets/117018553/6c389f61-1e02-40d7-b507-3b773dbf8782" height = 35 width = 35 alt = "SFML"/>
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height = 35 width = 35 alt = "Express.js"/>
+  <img src="https://github.com/RamezzE/RamezzE/assets/117018553/f4fbe7e2-d886-43c8-a59d-42b3a841bafd" height = 35 width = 35 alt = "Sklearn"/>
 
 ---
     
