@@ -31,9 +31,10 @@
 ## 🏆 Top Projects by Category
 
 ### 🖼️ Computer Vision
-- [Virtual Mouse](https://github.com/RamezzE/VirtualMouse-HandTracking) - A Virtual Mouse project using MediaPipe.
+- [Virtual Mouse](https://github.com/RamezzE/VirtualMouse-HandTracking) - A python application, developed using Kivy, that uses MediaPipe to feed hand landmarks to a machine learning model to allow gesture recognition and mouse control.
 
 ### 🤖 Machine Learning
+- [Bitcoin Price Prediction](https://github.com/RamezzE/Bitcoin-Price-Prediction) - A time series forecasting project for Bitcoin price.
 - [Loan Approval Prediction](https://github.com/RamezzE/LoanApproval-Prediction) - A binary classification machine learning project.
 
 ### 📚 Algorithms & Data Structures
