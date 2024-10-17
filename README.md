@@ -3,7 +3,9 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width = "40%">
 
 <h3 align="left">A passionate and proactive AI student</h3>
-<h5 align="left">Thank you for visiting my profile! Feel free to check out my repositories and get in touch. </h5>
+
+<h5 align="left">Thank you for visiting my profile! Feel free to check out my repositories and get in touch</h5>
+<h5 align="left">While you're on it, you might want to check out my <a href="https://ramezze.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a> </h5>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ramezze&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" />
 
@@ -19,7 +21,9 @@
   <img src="https://github.com/RamezzE/RamezzE/assets/117018553/701faebf-afc6-4866-9910-278ac8d59db8" height = 35 width = 55 alt = "PHP"/>
 
 - **Frameworks/Libraries:**
-
+  
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="35" width="35" alt= "React"/>
+  <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" height="35" width="35" alt="Expo"/>
   <img src="https://github.com/RamezzE/RamezzE/assets/117018553/30b0e970-56e5-4cbc-921e-a2ef2a066775" height = 35 width = 35 alt = "OpenCV"/>
   <img src="https://github.com/RamezzE/RamezzE/assets/117018553/1f3d50f5-68d3-4f88-891f-e23f988d11a2" height = 35 width = 35 alt = "TensorFlow"/>
   <img src="https://github.com/RamezzE/RamezzE/assets/117018553/6c389f61-1e02-40d7-b507-3b773dbf8782" height = 35 width = 35 alt = "SFML"/>
@@ -29,6 +33,9 @@
 ---
     
 ## 🏆 Top Projects by Category
+
+### 📳 Mobile Development
+- [HST Risk](https://github.com/RamezzE/HST-Risk) - Cross platform mobile application that mimicks 'Risk', the board game, but for challenges in real life with real-time updates.
 
 ### 🖼️ Computer Vision
 - [Virtual Mouse](https://github.com/RamezzE/VirtualMouse-HandTracking) - A Kivy python application that uses MediaPipe, OpenCV & TensorFlow to allow mouse control using live hand gestures.
