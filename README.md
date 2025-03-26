@@ -2,10 +2,10 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width = "40%">
 
-<h3 align="left">A passionate and proactive AI student</h3>
+<h3 align="left">A passionate and proactive AI student & freelancer</h3>
 
 <h5 align="left">Thank you for visiting my profile! Feel free to check out my repositories and get in touch</h5>
-<h5 align="left">While you're on it, you might want to check out my <a href="https://ramezze.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a> </h5>
+<h5 align="left">While you're on it, you might want to check out my <a href="https://ramezze.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a> or <a href="https://www.upwork.com/freelancers/~01f9a101dc510f1112" target="_blank" rel="noopener noreferrer">Upwork Profile</a> </h5>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ramezze&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" />
 
@@ -33,6 +33,8 @@
 ---
     
 ## 🏆 Top Projects by Category
+
+<h5> P.S: You can view more projects on my <a href="https://www.upwork.com/freelancers/~01f9a101dc510f1112" target="_blank" rel="noopener noreferrer">Upwork Profile</a> </h5>
 
 ### 📳 Mobile Development
 - [HST Risk](https://github.com/RamezzE/HST-Risk) - Cross platform mobile application that mimicks 'Risk', the board game, but for challenges in real life with real-time updates.
