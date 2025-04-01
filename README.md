@@ -22,6 +22,7 @@
 
 - **Frameworks/Libraries:**
   
+  <img src="https://www.electronjs.org/assets/img/logo.svg" height="35" width="35" alt= "Electron"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="35" width="35" alt= "React"/>
   <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" height="35" width="35" alt="Expo"/>
   <img src="https://github.com/RamezzE/RamezzE/assets/117018553/30b0e970-56e5-4cbc-921e-a2ef2a066775" height = 35 width = 35 alt = "OpenCV"/>
